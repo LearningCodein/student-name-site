@@ -1,4 +1,3 @@
 # student-name-site
 portfolio
-Pesonal portfolio websitr
-
+Pesonal portfolio website
